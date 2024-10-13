@@ -1,12 +1,22 @@
 import './App.css'
-import './Profile.jsx'
-import Profile from './Profile.jsx'
+import AdminPanel from './AdminPanel';
+import LoginForm from './LoginForm';
 
 function App() {
+
+  let content;
+  let isLoggedIn = true;
+
+if (isLoggedIn) {
+  content = <AdminPanel />;
+} else {
+  content = <LoginForm />;
+}
+
   return(
     <>
      <h1>Welcome to my App!</h1>
-     <Profile />
+     {content}
     </>
   )
 }
