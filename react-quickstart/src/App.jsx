@@ -1,20 +1,12 @@
-function AboutPage() {
-  return (
-    <>
-      <h1>About</h1>
-      <p>
-        Hello there. <br /> How do you do?
-      </p>
-    </>
-  );
-}
+import './App.css'
 
 function App() {
-  return (
-    <div>
-      <h1>Welcome to my app</h1>
-      <AboutPage />
-    </div>
-  );
+  return(
+    <>
+     <h1>Welcome to my App!</h1>
+     <img className="avatar" src="https://i.imgur.com/yXOvdOSs.jpg" />
+    </>
+  )
 }
-export default App;
+
+export default App
