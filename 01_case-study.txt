@@ -1,0 +1,29 @@
+As a software manager, I oversee a development team that handles various projects. Recently, another department approached me with a request for a joint effort. 
+They were seeking help from our software engineers to support their team in the Research and Development (R&D) department, as they were facing tight deadlines. The challenge was clear: the R&D department needed assistance to meet their target dates,
+and we had to step in and assist, despite the fact that there was a significant learning curve involved.
+
+Although the schedule was already very tight, we decided to lend our support to help them meet their goals. Despite the initial challenges, the collaboration showed promising progress. 
+However, as we were nearing the end of the project and approaching the target deadline, one of my developers faced a personal family crisis, which unfortunately disrupted our progress and further jeopardised our ability to meet the deadline.
+
+Questions for Consideration:
+
+1. As a Manager: How would you handle the situation when a key team member faces a personal issue that affects the project timeline?
+ What steps would you take to ensure the team stays on track, and how would you communicate with both the client and your team?
+
+- When a team member has a personal emergency that affects our project timeline, my first step is to make sure they feel supported while figuring out how this impacts our schedule.
+ I’d look into redistributing tasks among the team or even bringing in temporary help if possible to keep things moving. 
+ To keep stakeholders informed, I’d openly share any timeline adjustments and get their input on which tasks to prioritize. This approach helps us stay focused on what matters most to meet project goals. By keeping communication clear and transparent, we can make sure everyone’s aligned and manage expectations effectively.
+
+
+2. As a Developer: If you were the one facing a family emergency, 
+how would you handle the situation to ensure that it doesn't negatively impact the project timeline?
+What actions would you take to manage your workload, communicate effectively with your manager, and ensure the project stays on course?
+
+- If I am a developer facing a family emergency, I will inform the manager immediately about my situation and ask what is the best thing I can do so that I cannot negatively impact the project. 
+After informing the manager I will make sure that I will still do my task most especially the critical ones. And if I need to and the manager will allow me I will work remotely so that I can finish my task and also attend to my family’s needs. 
+
+
+3. What Could Have Been Done Better?: 
+Reflect on how both the manager and the developer could have better anticipated potential risks and mitigated issues before they arose. What strategies might have helped avoid this situation or managed it more effectively?
+
+-  The strategies that they should do is make a backup plan to any issues that will arise so that the team can continue even if there is interruption along the way. They should put extra time for every task so that when there is an unexpected issue the project will still hit the deadlines. All things should be organized and also they should communicate openly to the stakeholders of the project and they are well-informed for them to adjust also. Proper communication and good management will help the project to succeed even if there is a risk or issue. 
