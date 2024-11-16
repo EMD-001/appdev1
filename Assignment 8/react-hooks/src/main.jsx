@@ -4,11 +4,12 @@ import './index.css'
 import Counter from './counter.jsx'
 import ToggleButton from './ToggleButton.jsx'
 import TextInput from './TextInput.jsx'
-
+import FetchPosts from './FetchPosts.jsx'
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <Counter />
     <ToggleButton />
     <TextInput />
+    <FetchPosts />
   </StrictMode>,
 )
