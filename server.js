@@ -9,8 +9,13 @@ dotenv.config();
 const app = express();
 app.use(express.json());
 
+app.get('/', (req, res) => {
+  res.send('Simple Book API using Node.js, Express, and MongoDB');
+});
+
 app.use("/api/auth", authRoutes);
 app.use("/api/books", bookRoutes);
+
 
 mongoose
   .connect(process.env.MONGO_URI)
